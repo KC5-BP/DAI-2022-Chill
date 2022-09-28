@@ -1,8 +1,0 @@
-// From CLI to another branch
-1) Push changes
-git add <files>
-git commit -m "Smthg .."
-git push
-
-2) Open pull request (sample with a fb-krakenshot + main branches)
-git request-pull
